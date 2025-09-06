@@ -222,9 +222,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**AlphaZigy**
-- GitHub: [@AlphaZigy](https://github.com/AlphaZigy)
-- Project: [AgriDoctor](https://github.com/AlphaZigy/AgriDoctor)
+**Alpha Zigara**
+- 🌐 Website: [www.dubzig.co.zw](https://www.dubzig.co.zw)
+- 📧 Business Email: [info@dubzig.co.zw](mailto:info@dubzig.co.zw)
+- 📱 Phone: [+263717865911](tel:+263717865911)
+- 💻 GitHub: [@AlphaZigy](https://github.com/AlphaZigy)
+- 🚀 Project: [AgriDoctor](https://github.com/AlphaZigy/AgriDoctor)
 
 ## 🙏 Acknowledgments
 
